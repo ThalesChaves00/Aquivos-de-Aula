@@ -1,0 +1,15 @@
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Loguin\obj\Debug\net6.0\Loguin.csproj.AssemblyReference.cache
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Loguin\obj\Debug\net6.0\Loguin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Loguin\obj\Debug\net6.0\Loguin.AssemblyInfoInputs.cache
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Loguin\obj\Debug\net6.0\Loguin.AssemblyInfo.cs
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Loguin\obj\Debug\net6.0\Loguin.csproj.CoreCompileInputs.cache
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Loguin\bin\Debug\net6.0\Loguin.exe
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Loguin\bin\Debug\net6.0\Loguin.deps.json
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Loguin\bin\Debug\net6.0\Loguin.runtimeconfig.json
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Loguin\bin\Debug\net6.0\Loguin.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Loguin\bin\Debug\net6.0\Loguin.pdb
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Loguin\obj\Debug\net6.0\Loguin.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Loguin\obj\Debug\net6.0\refint\Loguin.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Loguin\obj\Debug\net6.0\Loguin.pdb
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Loguin\obj\Debug\net6.0\Loguin.genruntimeconfig.cache
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Loguin\obj\Debug\net6.0\ref\Loguin.dll

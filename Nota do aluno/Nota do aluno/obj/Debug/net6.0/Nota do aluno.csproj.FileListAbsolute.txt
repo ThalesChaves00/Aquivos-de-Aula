@@ -1,0 +1,15 @@
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Nota do aluno\bin\Debug\net6.0\Nota do aluno.exe
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Nota do aluno\bin\Debug\net6.0\Nota do aluno.deps.json
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Nota do aluno\bin\Debug\net6.0\Nota do aluno.runtimeconfig.json
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Nota do aluno\bin\Debug\net6.0\Nota do aluno.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Nota do aluno\bin\Debug\net6.0\Nota do aluno.pdb
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Nota do aluno\obj\Debug\net6.0\Nota do aluno.csproj.AssemblyReference.cache
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Nota do aluno\obj\Debug\net6.0\Nota do aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Nota do aluno\obj\Debug\net6.0\Nota do aluno.AssemblyInfoInputs.cache
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Nota do aluno\obj\Debug\net6.0\Nota do aluno.AssemblyInfo.cs
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Nota do aluno\obj\Debug\net6.0\Nota do aluno.csproj.CoreCompileInputs.cache
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Nota do aluno\obj\Debug\net6.0\Nota do aluno.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Nota do aluno\obj\Debug\net6.0\refint\Nota do aluno.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Nota do aluno\obj\Debug\net6.0\Nota do aluno.pdb
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Nota do aluno\obj\Debug\net6.0\Nota do aluno.genruntimeconfig.cache
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\Nota do aluno\obj\Debug\net6.0\ref\Nota do aluno.dll

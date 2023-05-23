@@ -1,0 +1,29 @@
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\if else if.exe
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\if else if.deps.json
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\if else if.runtimeconfig.json
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\if else if.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\if else if.pdb
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\obj\Debug\net6.0\if else if.csproj.AssemblyReference.cache
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\obj\Debug\net6.0\if else if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\obj\Debug\net6.0\if else if.AssemblyInfoInputs.cache
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\obj\Debug\net6.0\if else if.AssemblyInfo.cs
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\obj\Debug\net6.0\if else if.csproj.CoreCompileInputs.cache
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\obj\Debug\net6.0\if else if.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\obj\Debug\net6.0\refint\if else if.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\obj\Debug\net6.0\if else if.pdb
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\obj\Debug\net6.0\if else if.genruntimeconfig.cache
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\obj\Debug\net6.0\ref\if else if.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\EPPlus.Core.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.Pkcs.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\bin\Debug\net6.0\runtimes\win\lib\netstandard1.3\System.Security.Cryptography.Pkcs.dll
+C:\Users\usuário\Desktop\curso .net\aquivos de aula\Nota do aluno\if else if\obj\Debug\net6.0\if else if.csproj.CopyComplete
